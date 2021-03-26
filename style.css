@@ -1,0 +1,17 @@
+body {
+    font-family: Courier, Everson Mono;
+    font-style: normal;
+    text-shadow: 12px 1px 9px #CE5937;);
+    color: red;
+}
+.black_border {
+    border: 5px solid black;   
+}
+#green_background {
+    background-color: black ;
+    width: 280px
+}
+    @import url('https://fonts.google.com/specimen/Dela+Gothic+One?preview.text_type=custom');
+.header {
+    font-family: "Dela Gothic One";
+}
